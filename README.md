@@ -7,5 +7,7 @@ Simple HTTP proxy written in Golang
 - Header modifications (just a simple "foo: bar" added to headers for now)
 
 ## Roadmap
+- traffic inspection 
+- rate limiting
 - gziping
 - caching
